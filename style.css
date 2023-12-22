@@ -1,0 +1,17 @@
+/* Custom styles */
+/* style.css */
+
+body {
+    background: rgb(54, 128, 180);
+    background: linear-gradient(99deg, rgba(54, 128, 180, 1) 0%, rgba(11, 32, 96, 1) 67%);
+}
+
+.NavBarItems {
+    margin-left: 15px;
+    color: white;
+    text-decoration: none;
+    margin-left: 35px;
+}
+h4{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
